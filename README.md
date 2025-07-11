@@ -75,8 +75,8 @@ Inventory levels vs. order quantities, lead time
 ## 📬 Contact
 
 *Varun S*  
-📧 [your.email@example.com](mail: varunsgowda2001@gmail)  
-🔗 [LinkedIn Profile]((http://www.linkedin.com/in/varun-s-b4842b29b))
+📧 (mail: varunsgowda2001@gmail)  
+🔗 ((http://www.linkedin.com/in/varun-s-b4842b29b))
 
 ---
 
